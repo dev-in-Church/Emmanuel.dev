@@ -33,7 +33,7 @@
 }
 
 .logo-div img {
-  height: 25px;
+  height: 60px;
   margin-right: 4px;
 }
 
@@ -141,8 +141,9 @@
   justify-content: center;
 }
 
-.greet-1 img {
-  height: 25px;
+.greet-1 a i {
+  font-size: 30px;
+  color: #000000;
 }
 
 .greet-2 img {
